@@ -1,0 +1,31 @@
+.image-container {
+    background: #eee;
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+.image-container-second {
+    background: #eee;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+}
+
+h2 {
+    color: white;
+    font-size: 2rem;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.cookie-notice {
+    background: #eee;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+
